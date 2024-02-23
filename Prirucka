@@ -1,0 +1,17 @@
+Uživatelská příručka
+
+Cílem hry je dostat se z opuštěného vězení
+
+Spustitelný soubor hry se nachází ve složce target
+Spustíte ho příkazem java -jar Prison-Break-1.0.0.jar
+
+Seznam příkazů:
+	pomoc - vypíše příkazy
+	jdi [prostor] - přesune se do zadaného prostoru pokud sousedí s aktuálním
+	seber [předmět] - uloží předmět do inventáře
+	polož [předmět] - vyndá předmět z inventáře
+	sněz [předmět] - sní jedlý předmět a možná odhalí nějaká tajemství
+	otevři [předmět] - otevíratelný předmět se otevře a ukáže co skrýva uvnitř
+	přeči [předmět] - přečte předmět obsahující nějaký vzkaz
+	prozkoumej [předmět] - vypíše popis daného předmětu
+	konec - hru ukončí
